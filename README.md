@@ -1,5 +1,6 @@
 # File-Cloning
 FULL COMAND 👇
+Update Done 🤟
 
 $ apt update
 $ apt upgrade
@@ -11,4 +12,4 @@ $ pip install rich
 $ rm -rf file-cloning
 $ git clone https://github.com/Ratul-King-71/File-Cloning
 $ cd File-Cloning
-$ python rx-ratultalha_enc.py
+$ python File-Cloning.py
